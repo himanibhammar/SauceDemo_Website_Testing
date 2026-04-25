@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="SauceDemo Test Suite">
+
+    <test name="Login Tests">
+
+        <classes>
+<!--      <class name="com.saucedemo.automation.LoginTest"/>-->   
+<!--         <class name="com.saucedemo.automation.InvalidLoginTest"/>-->
+			<!--<class name="com.saucedemo.automation.EmptyUsernameTest"/>-->
+			<!--<class name="com.saucedemo.automation.EmptyPasswordTest"/>-->
+			<!--<class name="com.saucedemo.automation.LockedUserTest"/>-->
+		<!--	<class name="com.saucedemo.automation.ProductPageTitleTest"/>-->
+			<!--<class name="com.saucedemo.automation.AddSingleProductTest"/>-->
+			<!--<class name="com.saucedemo.automation.AddMultipleProductsTest"/>-->
+		<!--	<class name="com.saucedemo.automation.RemoveProductTest"/>-->
+			<!--<class name="com.saucedemo.automation.CartBadgeCountTest"/>-->
+			<!--<class name="com.saucedemo.automation.SortProductsAToZTest"/>-->
+			<!--<class name="com.saucedemo.automation.SortLowToHighTest"/>-->
+			<!--<class name="com.saucedemo.automation.CheckoutFlowTest"/>-->
+			<!--<class name="com.saucedemo.automation.EmptyCartValidationTest"/>-->
+<!--			<class name="com.saucedemo.automation.LogoutTest"/>-->			
+<!--<class name="com.saucedemo.automation.HamburgerMenuValidationTest"/>-->
+<!--<class name="com.saucedemo.automation.AboutPageNavigationTest"/>-->
+<class name="com.saucedemo.automation.CloseHamburgerMenuTest"/>
+        </classes>
+
+    </test>
+
+</suite>
